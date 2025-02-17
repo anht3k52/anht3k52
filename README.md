@@ -4,7 +4,7 @@
 ## ✨ About Me
 Anht3k52-SamC VN.
 
-## 💸 Doante
+## 💸 Donate
 - **EVM:** 0xb22ae4482c1c0b61d8069bc187e1015f6ad4de1e
 - **TON:** UQBl9GUkwiqjVugf-SK8tiMh_7LubCumua2LJBCveHomK8rp
 - **SOL:** D1BjLjiC8dCzb4Ds2ScYfcsCgCf23mfebSLs2v8bhyjk
