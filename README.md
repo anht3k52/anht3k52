@@ -1,5 +1,4 @@
-# Xin chào tôi là người Việt Nam 👋
-# Hello I am Vietnamese 👋
+# Hello I am Vietnam 👋
 
 ## ✨ About Me
 Anht3k52-SamC VN.
